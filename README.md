@@ -58,7 +58,7 @@ Depois de mesclar sua solicitação "pull", seu branch pode ser excluído;
 
 ## :memo: Licença
 
-Esse projeto usa a licença MIT. Leia [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto usa a licença MIT. Leia [LICENÇA](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT) para mais detalhes.
 
 ---
 
